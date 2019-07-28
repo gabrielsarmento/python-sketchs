@@ -8,8 +8,8 @@ verify_ssl = true
 [packages]
 matplotlib = "*"
 flask = "*"
-jupyter = "*"
 jupyter-contrib-nbextensions = "*"
+flask-restplus = "*"
 
 [requires]
 python_version = "3.7"
